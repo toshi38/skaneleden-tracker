@@ -25,7 +25,7 @@ export default class Track extends React.Component{
       ...this.state.segmentsCompleted,
       [segmentSlug]: completed
     };
-    if(this.state.isSignedIn) { //Logged in:
+    if(this.state.isSignedIn && this.state.userProfile) { //Logged in:
       firebase.database().ref(this.databaseLocationBase + this.state.userProfile.uid).set(segmentsCompleted)
     } else {
       //Can't depend on firebase so update state ourselves:
@@ -35,29 +35,32 @@ export default class Track extends React.Component{
   }
 
   componentDidMount() {
-    // Updating the `someData` local state attribute when the Firebase Realtime Database data
-    // under the '/someData' path changes.
     this.unregisterAuthObserver = firebase.auth().onAuthStateChanged((user) => {
-      this.setState({ isSignedIn: !!user, userProfile: user });
-      this.firebaseRef = firebase.database().ref(this.databaseLocationBase + this.state.userProfile.uid);
-      this.firebaseCallback = this.firebaseRef.on('value', (snap) => {
-        console.log("Update!", snap.val())
-        if(snap.val()) {
-          this.setState({ segmentsCompleted: snap.val() });
-        }
-        else {
-          console.log("No state found in database, initializing to current state");
-          firebase.database().ref(this.databaseLocation + this.state.userProfile.uid).set(this.state.segmentsCompleted);
-        }
-      });
+      if(user) {
+        this.setState({ isSignedIn: !!user, userProfile: user });
+        this.firebaseRef = firebase.database().ref(this.databaseLocationBase + user.uid);
+        this.firebaseCallback = this.firebaseRef.on('value', (snap) => {
+          console.log("Update!", snap.val())
+          if(snap.val()) {
+            this.setState({ segmentsCompleted: snap.val() });
+          }
+          else {
+            console.log("No state found in database, initializing to current state");
+            firebase.database().ref(this.databaseLocation + this.state.userProfile.uid).set(this.state.segmentsCompleted);
+          }
+        });
+      }
     });
   }
 
   componentWillUnmount() {
     // Un-registers the auth state observer.
     this.unregisterAuthObserver();
+
     // Un-register the listener on '/someData'.
-    this.firebaseRef.off('value', this.firebaseCallback);
+    if(this.firebaseCallback) {
+      this.firebaseRef.off('value', this.firebaseCallback);
+    }
   }
 
   render() {

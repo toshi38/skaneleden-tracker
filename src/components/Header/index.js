@@ -1,5 +1,5 @@
 import React from "react";
-import firebase, {auth, provider} from '../../firebase';
+import {auth, provider} from '../../firebase';
 
 export default class Header extends React.Component{
   constructor(props) {
@@ -24,7 +24,7 @@ export default class Header extends React.Component{
   componentDidMount() {
     // Updating the `isSignedIn` and `userProfile` local state attributes when the Firebase Auth
     // state changes.
-    this.unregisterAuthObserver = firebase.auth().onAuthStateChanged((user) => {
+    this.unregisterAuthObserver = auth.onAuthStateChanged((user) => {
       this.setState({ isSignedIn: !!user, userProfile: user });
     });
   }
