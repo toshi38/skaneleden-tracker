@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div class="container">
         <div class="row">
-          {skaneledenData.map(track => <Track track={track} key={track.slug}/>)}
+          {skaneledenData.map(track => <Track name={track.name} slug={track.slug} segments={track.segments} key={track.slug}/>)}
         </div>
       </div>
     );
