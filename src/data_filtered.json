@@ -1,0 +1,457 @@
+[
+  {
+    "name": "SL1 Kust-kustleden",
+    "slug": "sl1-kust-kustleden",
+    "segments": [
+      {
+        "name": "1 Sölvesborg - Grundsjön",
+        "slug": "1-solvesborg-grundsjon",
+        "lengthKm": 13.61983346156245
+      },
+      {
+        "name": "2 Grundsjön - Östafors",
+        "slug": "2-grundsjon-ostafors",
+        "lengthKm": 15.408522898504351
+      },
+      {
+        "name": "3 Östafors - Bökestad",
+        "slug": "3-ostafors-bokestad",
+        "lengthKm": 9.289363111463858
+      },
+      {
+        "name": "4 Bökestad - Brotorpet",
+        "slug": "4-bokestad-brotorpet",
+        "lengthKm": 12.723133589117229
+      },
+      {
+        "name": "5 Brotorpet - Vesslarp",
+        "slug": "5-brotorpet-vesslarp",
+        "lengthKm": 12.680415524366351
+      },
+      {
+        "name": "6 Vesslarp - Glimåkra",
+        "slug": "6-vesslarp-glimakra",
+        "lengthKm": 18.826406088990915
+      },
+      {
+        "name": "6A Breanäsleden",
+        "slug": "6a-breanasleden",
+        "lengthKm": 31.959655976037947
+      },
+      {
+        "name": "7 Glimåkra - Osby",
+        "slug": "7-glimakra-osby",
+        "lengthKm": 16.877803856664283
+      },
+      {
+        "name": "8 Osby - Verum",
+        "slug": "8-osby-verum",
+        "lengthKm": 23.89272177231541
+      },
+      {
+        "name": "9 Verum - Vittsjö",
+        "slug": "9-verum-vittsjo",
+        "lengthKm": 11.651798566768615
+      },
+      {
+        "name": "10 Vittsjö - Hårsjö",
+        "slug": "10-vittsjo-harsjo",
+        "lengthKm": 8.07799165231031
+      },
+      {
+        "name": "11 Hårsjö - Lärkesholm",
+        "slug": "11-harsjo-larkesholm",
+        "lengthKm": 19.72799233927862
+      },
+      {
+        "name": "12 Lärkesholm - Bjärabygget",
+        "slug": "12-larkesholm-bjarabygget",
+        "lengthKm": 13.022363603751316
+      },
+      {
+        "name": "12A Lärkesholm - Grytåsa",
+        "slug": "12a-larkesholm-grytasa",
+        "lengthKm": 16.343479465148743
+      },
+      {
+        "name": "13 Bjärabygget - Koarp",
+        "slug": "13-bjarabygget-koarp",
+        "lengthKm": 16.597314597353414
+      },
+      {
+        "name": "14 Koarp - Brammarp",
+        "slug": "14-koarp-brammarp",
+        "lengthKm": 17.982828849731895
+      },
+      {
+        "name": "15 Brammarp - Båstad",
+        "slug": "15-brammarp-bastad",
+        "lengthKm": 11.941336490912038
+      },
+      {
+        "name": "16 Båstad - Knösen",
+        "slug": "16-bastad-knosen",
+        "lengthKm": 13.179659000426108
+      },
+      {
+        "name": "17 Knösen - Torekov",
+        "slug": "17-knosen-torekov",
+        "lengthKm": 10.212651098942379
+      },
+      {
+        "name": "18 Torekov - Vejbystrand",
+        "slug": "18-torekov-vejbystrand",
+        "lengthKm": 20.109202315639642
+      }
+    ]
+  },
+  {
+    "name": "SL2 Nord-sydleden",
+    "slug": "sl2-nord-sydleden",
+    "segments": [
+      {
+        "name": "1 Hårsjö - Olastorp",
+        "slug": "1-harsjo-olastorp",
+        "lengthKm": 3.745193128355421
+      },
+      {
+        "name": "2 Olastorp - Vedema",
+        "slug": "2-olastorp-vedema",
+        "lengthKm": 13.095503748395485
+      },
+      {
+        "name": "3 Vedema - Hässleholm",
+        "slug": "3-vedema-hassleholm",
+        "lengthKm": 21.810181357488666
+      },
+      {
+        "name": "4 Hässleholm - Göingeåsen",
+        "slug": "4-hassleholm-goingeasen",
+        "lengthKm": 11.737642208998826
+      },
+      {
+        "name": "4A Göingeåsen - Hovdala",
+        "slug": "4a-goingeasen-hovdala",
+        "lengthKm": 11.015819004900699
+      },
+      {
+        "name": "4B Hovdala - Skyrup",
+        "slug": "4b-hovdala-skyrup",
+        "lengthKm": 20.37258897597765
+      },
+      {
+        "name": "4C Skyrup-Hässleholm",
+        "slug": "4c-skyrup-hassleholm",
+        "lengthKm": 15.117763430732877
+      },
+      {
+        "name": "5 Göingeåsen - Lillsjödal",
+        "slug": "5-goingeasen-lillsjodal",
+        "lengthKm": 12.409000735859623
+      },
+      {
+        "name": "6 Lillsjödal - Maglebjär",
+        "slug": "6-lillsjodal-maglebjar",
+        "lengthKm": 20.538521207360112
+      },
+      {
+        "name": "7 Maglebjär - Onsvalakällan",
+        "slug": "7-maglebjar-onsvalakallan",
+        "lengthKm": 10.612599118612959
+      },
+      {
+        "name": "8 Onsvalakällan - Bjeveröd",
+        "slug": "8-onsvalakallan-bjeverod",
+        "lengthKm": 4.449861130458347
+      },
+      {
+        "name": "9 Bjeveröd - Hörby Ringsjöstrand",
+        "slug": "9-bjeverod-horby-ringsjostrand",
+        "lengthKm": 16.313734687338453
+      },
+      {
+        "name": "9A Åkes rundled",
+        "slug": "9a-akes-rundled",
+        "lengthKm": 9.879798804072376
+      },
+      {
+        "name": "10 Ringsjöstrand - Rövarekulan",
+        "slug": "10-ringsjostrand-rovarekulan",
+        "lengthKm": 11.703669186568616
+      },
+      {
+        "name": "11 Rövarekulan - Höghult",
+        "slug": "11-rovarekulan-hoghult",
+        "lengthKm": 8.991567487735123
+      },
+      {
+        "name": "12 Höghult - Krankesjön",
+        "slug": "12-hoghult-krankesjon",
+        "lengthKm": 10.551125083868394
+      },
+      {
+        "name": "13 Krankesjön - Väderkullen",
+        "slug": "13-krankesjon-vaderkullen",
+        "lengthKm": 13.866966978785126
+      },
+      {
+        "name": "13A Skrylleslingan",
+        "slug": "13a-skrylleslingan",
+        "lengthKm": 14.95890126292821
+      },
+      {
+        "name": "14 Väderkullen - Häckeberga",
+        "slug": "14-vaderkullen-hackeberga",
+        "lengthKm": 15.7314601977968
+      },
+      {
+        "name": "15 Häckeberga - Sturup",
+        "slug": "15-hackeberga-sturup",
+        "lengthKm": 10.696169770091515
+      }
+    ]
+  },
+  {
+    "name": "SL3 Ås-åsleden",
+    "slug": "sl3-as-asleden",
+    "segments": [
+      {
+        "name": "1 Åstorp - Hålebäck",
+        "slug": "1-astorp-haleback",
+        "lengthKm": 9.41727255439719
+      },
+      {
+        "name": "2 Hålebäck - Krika skog",
+        "slug": "2-haleback-krika-skog",
+        "lengthKm": 16.103315043208532
+      },
+      {
+        "name": "3 Krika skog - Klåveröd",
+        "slug": "3-krika-skog-klaverod",
+        "lengthKm": 13.024045493393604
+      },
+      {
+        "name": "4 Klåveröd - Söderåsens nationalpark",
+        "slug": "4-klaverod-soderasens-nationalpark",
+        "lengthKm": 5.882173189104753
+      },
+      {
+        "name": "5 Söderåsens nationalpark - Jällabjär",
+        "slug": "5-soderasens-nationalpark-jallabjar",
+        "lengthKm": 10.889885662498767
+      },
+      {
+        "name": "6 Jällabjär - S Hultarp",
+        "slug": "6-jallabjar-s-hultarp",
+        "lengthKm": 11.165247516506247
+      },
+      {
+        "name": "7 S Hultarp - Maglebjär",
+        "slug": "7-s-hultarp-maglebjar",
+        "lengthKm": 14.361178444840274
+      },
+      {
+        "name": "8 Maglebjär - Onsvalakällan",
+        "slug": "8-maglebjar-onsvalakallan",
+        "lengthKm": 10.612599118612959
+      },
+      {
+        "name": "9 Onsvalakällan - Bjeveröd",
+        "slug": "9-onsvalakallan-bjeverod",
+        "lengthKm": 4.449861130458347
+      },
+      {
+        "name": "10 Bjeveröd – Ekeröd",
+        "slug": "10-bjeverod-ekerod",
+        "lengthKm": 12.433261836176683
+      },
+      {
+        "name": "11 Ekeröd – Timan",
+        "slug": "11-ekerod-timan",
+        "lengthKm": 12.973009489356592
+      },
+      {
+        "name": "12 Timan - Rebbetuaröd",
+        "slug": "12-timan-rebbetuarod",
+        "lengthKm": 21.143281588435357
+      },
+      {
+        "name": "13 Rebbetuaröd - Agusa",
+        "slug": "13-rebbetuarod-agusa",
+        "lengthKm": 6.487734273593649
+      },
+      {
+        "name": "14 Agusa - Brösarp",
+        "slug": "14-agusa-brosarp",
+        "lengthKm": 15.753662913049777
+      }
+    ]
+  },
+  {
+    "name": "SL4 Österlenleden",
+    "slug": "sl4-osterlenleden",
+    "segments": [
+      {
+        "name": "1 Ystad - Nybrostrand",
+        "slug": "1-ystad-nybrostrand",
+        "lengthKm": 8.037798004438363
+      },
+      {
+        "name": "2 Nybrostrand - Löderups strandbad",
+        "slug": "2-nybrostrand-loderups-strandbad",
+        "lengthKm": 17.468211919081472
+      },
+      {
+        "name": "3 Löderups strandbad - Borrby strandbad",
+        "slug": "3-loderups-strandbad-borrby-strandbad",
+        "lengthKm": 11.32311931891838
+      },
+      {
+        "name": "4 Borrby strandbad - Simrishamn",
+        "slug": "4-borrby-strandbad-simrishamn",
+        "lengthKm": 19.63789433438201
+      },
+      {
+        "name": "5 Simrishamn - Kivik",
+        "slug": "5-simrishamn-kivik",
+        "lengthKm": 20.769184858277193
+      },
+      {
+        "name": "6 Kivik - Vantalängan",
+        "slug": "6-kivik-vantalangan",
+        "lengthKm": 14.935590728327327
+      },
+      {
+        "name": "7 Vantalängan - Verkasjön",
+        "slug": "7-vantalangan-verkasjon",
+        "lengthKm": 7.304341664390329
+      },
+      {
+        "name": "7A Verkasjön - Agusa",
+        "slug": "7a-verkasjon-agusa",
+        "lengthKm": 8.817324936890197
+      },
+      {
+        "name": "7B Agusa - Torparebron",
+        "slug": "7b-agusa-torparebron",
+        "lengthKm": 13.89459336680372
+      },
+      {
+        "name": "8 Verkasjön - Heinge",
+        "slug": "8-verkasjon-heinge",
+        "lengthKm": 8.54061594378399
+      },
+      {
+        "name": "9 Heinge - Lövestads åsar",
+        "slug": "9-heinge-lovestads-asar",
+        "lengthKm": 5.890834570920091
+      },
+      {
+        "name": "10 Lövestads åsar - Vitabäck",
+        "slug": "10-lovestads-asar-vitaback",
+        "lengthKm": 12.843822853569456
+      },
+      {
+        "name": "11 Vitabäck - Snogeholm",
+        "slug": "11-vitaback-snogeholm",
+        "lengthKm": 9.752994318436622
+      },
+      {
+        "name": "12 Snogeholm - Ystad",
+        "slug": "12-snogeholm-ystad",
+        "lengthKm": 24.451924077082854
+      }
+    ]
+  },
+  {
+    "name": "SL5 Öresundsleden",
+    "slug": "sl5-oresundsleden",
+    "segments": [
+      {
+        "name": "1 Utvälinge - Farhult",
+        "slug": "1-utvalinge-farhult",
+        "lengthKm": 7.812653109114724
+      },
+      {
+        "name": "2 Farhult - Skäret",
+        "slug": "2-farhult-skaret",
+        "lengthKm": 10.099691282448463
+      },
+      {
+        "name": "3 Skäret - Josefinelust",
+        "slug": "3-skaret-josefinelust",
+        "lengthKm": 12.407253064160058
+      },
+      {
+        "name": "4 Josefinelust - Strandbaden",
+        "slug": "4-josefinelust-strandbaden",
+        "lengthKm": 14.357286446641169
+      },
+      {
+        "name": "5 Strandbaden - Domsten",
+        "slug": "5-strandbaden-domsten",
+        "lengthKm": 13.353310511749896
+      },
+      {
+        "name": "6 Domsten - Helsingborg",
+        "slug": "6-domsten-helsingborg",
+        "lengthKm": 12.02635185641686
+      },
+      {
+        "name": "7 Helsingborg - Rydebäck",
+        "slug": "7-helsingborg-rydeback",
+        "lengthKm": 15.684648528555485
+      },
+      {
+        "name": "8 Rydebäck - Landskrona",
+        "slug": "8-rydeback-landskrona",
+        "lengthKm": 12.639886904273714
+      },
+      {
+        "name": "9 Landskrona - Järavallen",
+        "slug": "9-landskrona-jaravallen",
+        "lengthKm": 15.203389889133383
+      },
+      {
+        "name": "9A Ven runt",
+        "slug": "9a-ven-runt",
+        "lengthKm": 11.734057031544534
+      },
+      {
+        "name": "10 Järavallen - Löddeköpinge",
+        "slug": "10-jaravallen-loddekopinge",
+        "lengthKm": 20.728414740237497
+      },
+      {
+        "name": "11 Löddeköpinge - Bjärred",
+        "slug": "11-loddekopinge-bjarred",
+        "lengthKm": 7.687068599477848
+      },
+      {
+        "name": "12 Bjärred - Lomma",
+        "slug": "12-bjarred-lomma",
+        "lengthKm": 6.100071885245472
+      },
+      {
+        "name": "13 Lomma - Spillepeng",
+        "slug": "13-lomma-spillepeng",
+        "lengthKm": 5.388238448113394
+      },
+      {
+        "name": "14 Spillepengen - Bulltofta",
+        "slug": "14-spillepengen-bulltofta",
+        "lengthKm": 6.393037880455711
+      },
+      {
+        "name": "20 Foteviken - Ljungens camping",
+        "slug": "20-foteviken-ljungens-camping",
+        "lengthKm": 35.86243465434855
+      },
+      {
+        "name": "21 Ljungens camping - Falsterbokanalen",
+        "slug": "21-ljungens-camping-falsterbokanalen",
+        "lengthKm": 8.693929541610933
+      }
+    ]
+  }
+]
