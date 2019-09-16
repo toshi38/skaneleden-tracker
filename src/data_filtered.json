@@ -120,14 +120,14 @@
         "lengthKm": 13.095503748395485
       },
       {
-        "name": "3 Vedema - Hässleholm",
+        "name": "3 Vedema - Hässleholmsgården",
         "slug": "3-vedema-hassleholm",
-        "lengthKm": 21.810181357488666
+        "lengthKm": 22
       },
       {
-        "name": "4 Hässleholm - Göingeåsen",
+        "name": "4 Hässleholmgården - Rännarehusen",
         "slug": "4-hassleholm-goingeasen",
-        "lengthKm": 11.737642208998826
+        "lengthKm": 12.5
       },
       {
         "name": "4A Göingeåsen - Hovdala",
@@ -142,7 +142,7 @@
       {
         "name": "4C Skyrup-Hässleholm",
         "slug": "4c-skyrup-hassleholm",
-        "lengthKm": 15.117763430732877
+        "lengthKm": 16
       },
       {
         "name": "5 Göingeåsen - Lillsjödal",
@@ -172,7 +172,7 @@
       {
         "name": "9A Åkes rundled",
         "slug": "9a-akes-rundled",
-        "lengthKm": 9.879798804072376
+        "lengthKm": 10
       },
       {
         "name": "10 Ringsjöstrand - Rövarekulan",
@@ -208,6 +208,40 @@
         "name": "15 Häckeberga - Sturup",
         "slug": "15-hackeberga-sturup",
         "lengthKm": 10.696169770091515
+      },
+      {
+        "name": "15A Sturup - Dörröd",
+        "slug": "15a-sturup-dorrod",
+        "lengthKm": 14
+      },
+      {
+        "name": "16 Sturup - Eksholmssjön",
+        "slug": "16-sturup-eksholmssjon",
+        "lengthKm": 7
+      },{
+        "name": "17 Eksholmssjön Torup",
+        "slug": "17-eksholmssjon-torup",
+        "lengthKm": 9
+      },{
+        "name": "18 Torup - Malmö Bulltofta",
+        "slug": "18-torup-bulltofta",
+        "lengthKm": 14
+      },{
+        "name": "19 Dörröd - Blentarp",
+        "slug": "19-dorrod-blentarp",
+        "lengthKm": 12
+      },{
+        "name": "20 Blentarp - Snogeholm",
+        "slug": "20-blentarp-snogeholm",
+        "lengthKm": 12
+      },{
+        "name": "21 Torup - Fru Alstad",
+        "slug": "21-torup-fru-alstad",
+        "lengthKm": 18
+      },{
+        "name": "22 Fru Alstad- Trelleborg",
+        "slug": "22-fru-alstad-trelleborg",
+        "lengthKm": 13
       }
     ]
   },
